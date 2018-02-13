@@ -3,4 +3,4 @@ project(transcrypto C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(transcrypto main.c transfer/client/session.h configs/transfer_configs.h)
+add_executable(transcrypto main.c transfer/base/session.h configs/transfer_configs.h)
