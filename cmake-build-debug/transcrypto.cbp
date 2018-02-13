@@ -84,7 +84,7 @@
 		<Unit filename="/home/eli/CLionProjects/transcrypto/main.c">
 			<Option target="transcrypto"/>
 		</Unit>
-		<Unit filename="/home/eli/CLionProjects/transcrypto/transfer/client/session.h">
+		<Unit filename="/home/eli/CLionProjects/transcrypto/transfer/base/session.h">
 			<Option target="transcrypto"/>
 		</Unit>
 		<Unit filename="/home/eli/CLionProjects/transcrypto/CMakeLists.txt">
