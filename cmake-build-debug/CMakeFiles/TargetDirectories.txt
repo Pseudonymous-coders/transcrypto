@@ -1,0 +1,3 @@
+/home/eli/CLionProjects/transcrypto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eli/CLionProjects/transcrypto/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eli/CLionProjects/transcrypto/cmake-build-debug/CMakeFiles/transcrypto.dir
